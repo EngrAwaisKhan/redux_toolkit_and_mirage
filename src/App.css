@@ -1,0 +1,11 @@
+.App table {
+  width: 20rem;
+  margin: 0px auto;
+}
+.App {
+  text-align: center;
+}
+.App button {
+  margin-top: 25px;
+  padding: 10px;
+}
